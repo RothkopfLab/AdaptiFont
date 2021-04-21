@@ -1,0 +1,8 @@
+svg/
+bmp/
+metadata.npy
+example_fonts/**/*.svg
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+my_notebook.ipynb

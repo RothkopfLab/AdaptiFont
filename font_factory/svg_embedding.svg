@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by Yannik's font factory.
+</metadata>
+<defs>
+<font id="fontname" horiz-adv-x="333" >
+  <font-face 
+    font-family="fontname"
+    font-weight="300"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 11 3 2 2 1 4 2 2 3"
+    ascent="682"
+    descent="-318"
+    x-height="449"
+    cap-height="682"
+    bbox="-215 -250 1036 897"
+    underline-thickness="50"
+    underline-position="-100"
+    stemh="39"
+    stemv="48"
+    unicode-range="U+0020-FB02"
+  />
+Insert glyphs
+</font>
+</defs></svg>
