@@ -13,11 +13,11 @@
   </br></br>
   <b style="font-size:16px;"><i>
   
-  The official GitHub repository for the paper on [AdaptiFont: Increasing individuals’ reading speed with a generative fontmodel and Bayesian optimization](#) **TODO: Link to paper**</i></b>
+  The official GitHub repository for the paper on [AdaptiFont: Increasing individuals’ reading speed with a generative fontmodel and Bayesian optimization](https://dl.acm.org/doi/10.1145/3411764.3445140)</i></b>
 </h5>
 
 ## What is Provided?
-This Repositiory supplys additional material for the paper on [AdaptiFont: Increasing individuals’ reading speed with a generative font model and Bayesian optimization](#) **TODO: Link to paper**. Provided are usable fonts in the truetype font (*.ttf*) format  from the centroids of the best clusters for all subjects, as well as a [script](#morph-your-own-fonts) that you can use to combine your own fonts from the NMF components.
+This Repositiory supplys additional material for the paper on [AdaptiFont: Increasing individuals’ reading speed with a generative font model and Bayesian optimization](https://dl.acm.org/doi/10.1145/3411764.3445140). Provided are usable fonts in the truetype font (*.ttf*) format  from the centroids of the best clusters for all subjects, as well as a [script](#morph-your-own-fonts) that you can use to combine your own fonts from the NMF components.
 
 ## Best fonts per subject
 | Subject    | Truetype font | NMF components | How it looks |
