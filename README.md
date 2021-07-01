@@ -1,5 +1,8 @@
 # AdaptiFont
 
+Repository accompanying the publication:
+Kadner, F., Keller, Y., & Rothkopf, C. (2021, May). AdaptiFont: Increasing Individuals’ Reading Speed with a Generative Font Model and Bayesian Optimization. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (pp. 1-11).
+
 <p align="center">
   <a href="#what-is-provided">What is provided</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="#best-fonts-per-subject">Truetype fonts</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
